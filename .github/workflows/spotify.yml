@@ -1,17 +1,17 @@
-name: Update Spotify
+name: Spotify Now Playing
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Ejecuta cada 10 minutos
-  workflow_dispatch:  # Permite ejecutarlo manualmente
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: kittinan/spotify-github-profile@main
+      - uses: LautaroGH/spotify-now-playing@main
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          readme_path: README.md
+          username: jose.mendez.aqueveque
