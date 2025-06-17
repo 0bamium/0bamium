@@ -5,8 +5,8 @@
 ### 🎧 Escuchando ahora
 
 <p align="center">
-  <a href="https://open.spotify.com/user/0bamium" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0bamium&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+  <a href="https://open.spotify.com/user/jose.mendez.aqueveque" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jose.mendez.aqueveque&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
   </a>
 </p>
 
