@@ -2,18 +2,10 @@
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-const playlistId = '70MgqridFlTBwRoTblxPZg';
+### 🎧 Escuchando ahora
 
-<iframe
-  title="Spotify Embed: Recommendation Playlist "
-  src={`https://open.spotify.com/embed/playlist/70MgqridFlTBwRoTblxPZg?utm_source=generator&theme=0`}
-  width="100%"
-  height="100%"
-  style={{ minHeight: '360px' }}
-  frameBorder="0"
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-/>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0bamiumY&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/TU_USUARIO_SPOTIFY)
+
 
 
 
