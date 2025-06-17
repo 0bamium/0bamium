@@ -2,6 +2,32 @@
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+const playlistId = '70MgqridFlTBwRoTblxPZg';
+
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/70MgqridFlTBwRoTblxPZg?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
+
+
+
+
+# Technologies used
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
+
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/0bamium/count.svg)
 
