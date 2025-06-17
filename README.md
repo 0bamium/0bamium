@@ -10,11 +10,5 @@
   </a>
 </p>
 
-# Technologies used
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
-<code><img height="25" src="https://raw.gi
-
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/0bamium/count.svg)
