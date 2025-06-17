@@ -4,7 +4,8 @@
 
 ### 🎧 Escuchando ahora
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jose.mendez.aqueveque&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/jose.mendez.aqueveque)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jose.mendez.aqueveque)](https://open.spotify.com/user/jose.mendez.aqueveque)
+
 
 
 
