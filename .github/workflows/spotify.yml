@@ -1,4 +1,4 @@
-name: Spotify Now Playing
+name: Update Spotify
 
 on:
   schedule:
@@ -6,12 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: LautaroGH/spotify-now-playing@main
+      - uses: kittinan/spotify-profile@master
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          username: jose.mendez.aqueveque
