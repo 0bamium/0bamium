@@ -7,7 +7,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: kittinan/spotify-github-profile@v1
+      - uses: kittinan/spotify-github-profile@5bc9e29d4e8d1e64c3b68c8aa383f5016ff1f7fd
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
