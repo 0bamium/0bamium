@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Lautarogh/spotify-now-playing@main
+      - uses: LautaroGH/spotify-now-playing@main
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
